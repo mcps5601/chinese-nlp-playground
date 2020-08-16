@@ -2,3 +2,5 @@ api_v3
 test.ipynb
 .gitignore
 .ipynb_checkpoints
+LCSTS/valid
+LCSTS/test
