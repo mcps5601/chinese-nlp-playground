@@ -7,7 +7,7 @@ python -m spacy download zh_core_web_sm
 
 ## 詞性標註
 ```python
-python 
+python run_pos.py
 ```
 
 ## 生成式摘要
