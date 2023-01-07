@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+yapf = "*"
+jieba = "==0.42.1"
+ckiptagger = "*"
+spacy = "*"
+tensorflow = "*"
+gdown = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
